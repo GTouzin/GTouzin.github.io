@@ -1658,7 +1658,7 @@ input[type="button"]:active, input[type="submit"]:active, input[type="reset"]:ac
 }
 #main > section.one {
     background-color: #81918E;
-    background-image: url("../../images/paysage.jpg");
+    background-image: url("../../images/paysage2.jpg");
 }
 #main > section.two {
     background-color: #f5fafa;
@@ -1975,6 +1975,10 @@ input[type="button"]:active, input[type="submit"]:active, input[type="reset"]:ac
 		margin-bottom: 0;
 		padding-bottom: 25px;
 		font-weight: bold;
+}
+
+#top p,#top h4{
+  color: #fff;
 }
 
 .sous-liste {
